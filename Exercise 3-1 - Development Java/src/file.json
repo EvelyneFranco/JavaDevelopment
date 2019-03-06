@@ -1,0 +1,7 @@
+{
+  "AppSettings": {
+    "BaseUrl": "https://www.amazon.com.mx",
+    "BrowserTarget": "Firefox"
+ 
+  }
+}
