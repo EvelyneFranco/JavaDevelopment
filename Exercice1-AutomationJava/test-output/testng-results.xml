@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14290" started-at="2019-03-08T20:42:48Z" finished-at="2019-03-08T20:43:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14290" started-at="2019-03-08T20:42:48Z" finished-at="2019-03-08T20:43:03Z">
+      <class name="Exercice1TestNG">
+        <test-method status="PASS" signature="setUpBrowserFirefox()[pri:0, instance:Exercice1TestNG@36d4b5c]" name="setUpBrowserFirefox" is-config="true" duration-ms="6443" started-at="2019-03-08T20:42:48Z" finished-at="2019-03-08T20:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowserFirefox -->
+        <test-method status="PASS" signature="IphoneXRElementsEnable()[pri:0, instance:Exercice1TestNG@36d4b5c]" name="IphoneXRElementsEnable" duration-ms="2532" started-at="2019-03-08T20:42:55Z" finished-at="2019-03-08T20:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IphoneXRElementsEnable -->
+        <test-method status="PASS" signature="IphoneXRTittle()[pri:0, instance:Exercice1TestNG@36d4b5c]" name="IphoneXRTittle" duration-ms="1668" started-at="2019-03-08T20:42:57Z" finished-at="2019-03-08T20:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IphoneXRTittle -->
+        <test-method status="PASS" signature="ValidateMacText()[pri:0, instance:Exercice1TestNG@36d4b5c]" name="ValidateMacText" duration-ms="2693" started-at="2019-03-08T20:42:59Z" finished-at="2019-03-08T20:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMacText -->
+        <test-method status="PASS" signature="cleanTest()[pri:0, instance:Exercice1TestNG@36d4b5c]" name="cleanTest" is-config="true" duration-ms="934" started-at="2019-03-08T20:43:02Z" finished-at="2019-03-08T20:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanTest -->
+      </class> <!-- Exercice1TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
