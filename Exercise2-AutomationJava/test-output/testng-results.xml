@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12912" started-at="2019-03-19T22:10:22Z" finished-at="2019-03-19T22:10:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12912" started-at="2019-03-19T22:10:22Z" finished-at="2019-03-19T22:10:35Z">
+      <class name="executionClass">
+        <test-method status="PASS" signature="goToURL()[pri:0, instance:executionClass@51081592]" name="goToURL" is-config="true" duration-ms="8987" started-at="2019-03-19T22:10:22Z" finished-at="2019-03-19T22:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToURL -->
+        <test-method status="PASS" signature="validateUrl()[pri:1, instance:executionClass@51081592]" name="validateUrl" duration-ms="10" started-at="2019-03-19T22:10:31Z" finished-at="2019-03-19T22:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUrl -->
+        <test-method status="PASS" signature="validateSignUpTittle()[pri:2, instance:executionClass@51081592]" name="validateSignUpTittle" duration-ms="4" started-at="2019-03-19T22:10:31Z" finished-at="2019-03-19T22:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignUpTittle -->
+        <test-method status="PASS" signature="validateConnectLabelText()[pri:3, instance:executionClass@51081592]" name="validateConnectLabelText" duration-ms="1345" started-at="2019-03-19T22:10:31Z" finished-at="2019-03-19T22:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateConnectLabelText -->
+        <test-method status="PASS" signature="FindYourAccountText()[pri:4, instance:executionClass@51081592]" name="FindYourAccountText" duration-ms="1435" started-at="2019-03-19T22:10:32Z" finished-at="2019-03-19T22:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindYourAccountText -->
+        <test-method status="PASS" signature="errorMessageNotSearchResults()[pri:5, instance:executionClass@51081592]" name="errorMessageNotSearchResults" duration-ms="353" started-at="2019-03-19T22:10:34Z" finished-at="2019-03-19T22:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorMessageNotSearchResults -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:executionClass@51081592]" name="Close" is-config="true" duration-ms="756" started-at="2019-03-19T22:10:34Z" finished-at="2019-03-19T22:10:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- executionClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
