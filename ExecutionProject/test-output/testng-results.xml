@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39788" started-at="2019-04-01T18:23:59Z" finished-at="2019-04-01T18:24:39Z">
+  <suite name="Default suite" duration-ms="27292" started-at="2019-05-28T17:39:51Z" finished-at="2019-05-28T17:40:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39788" started-at="2019-04-01T18:23:59Z" finished-at="2019-04-01T18:24:39Z">
+    <test name="Default test" duration-ms="27292" started-at="2019-05-28T17:39:51Z" finished-at="2019-05-28T17:40:18Z">
       <class name="ExecutionTestNG">
-        <test-method status="PASS" signature="setUrl()[pri:0, instance:ExecutionTestNG@548a9f61]" name="setUrl" is-config="true" duration-ms="13847" started-at="2019-04-01T12:23:59Z" finished-at="2019-04-01T12:24:13Z">
+        <test-method status="PASS" signature="setUrl()[pri:0, instance:ExecutionTestNG@548a9f61]" name="setUrl" is-config="true" duration-ms="8726" started-at="2019-05-28T12:39:51Z" finished-at="2019-05-28T12:39:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUrl -->
-        <test-method status="PASS" signature="ValidatePrice1Samsung()[pri:0, instance:ExecutionTestNG@548a9f61]" name="ValidatePrice1Samsung" duration-ms="7294" started-at="2019-04-01T12:24:13Z" finished-at="2019-04-01T12:24:21Z">
+        <test-method status="PASS" signature="ValidatePrice1Samsung()[pri:0, instance:ExecutionTestNG@548a9f61]" name="ValidatePrice1Samsung" duration-ms="4490" started-at="2019-05-28T12:39:59Z" finished-at="2019-05-28T12:40:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidatePrice1Samsung -->
-        <test-method status="PASS" signature="ValidatePrice2SamsungInCar()[pri:0, instance:ExecutionTestNG@548a9f61]" name="ValidatePrice2SamsungInCar" duration-ms="5068" started-at="2019-04-01T12:24:21Z" finished-at="2019-04-01T12:24:26Z">
+        <test-method status="PASS" signature="ValidatePrice2SamsungInCar()[pri:0, instance:ExecutionTestNG@548a9f61]" name="ValidatePrice2SamsungInCar" duration-ms="2443" started-at="2019-05-28T12:40:04Z" finished-at="2019-05-28T12:40:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidatePrice2SamsungInCar -->
-        <test-method status="PASS" signature="ValidateOneProductInCar()[pri:0, instance:ExecutionTestNG@548a9f61]" name="ValidateOneProductInCar" duration-ms="18" started-at="2019-04-01T12:24:26Z" finished-at="2019-04-01T12:24:26Z">
+        <test-method status="PASS" signature="ValidateOneProductInCar()[pri:0, instance:ExecutionTestNG@548a9f61]" name="ValidateOneProductInCar" duration-ms="19" started-at="2019-05-28T12:40:06Z" finished-at="2019-05-28T12:40:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidateOneProductInCar -->
-        <test-method status="PASS" signature="VaidateAlienInCar()[pri:0, instance:ExecutionTestNG@548a9f61]" name="VaidateAlienInCar" duration-ms="6733" started-at="2019-04-01T12:24:26Z" finished-at="2019-04-01T12:24:32Z">
+        <test-method status="PASS" signature="VaidateAlienInCar()[pri:0, instance:ExecutionTestNG@548a9f61]" name="VaidateAlienInCar" duration-ms="5131" started-at="2019-05-28T12:40:06Z" finished-at="2019-05-28T12:40:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VaidateAlienInCar -->
-        <test-method status="PASS" signature="close()[pri:0, instance:ExecutionTestNG@548a9f61]" name="close" is-config="true" duration-ms="6804" started-at="2019-04-01T12:24:32Z" finished-at="2019-04-01T12:24:39Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:ExecutionTestNG@548a9f61]" name="close" is-config="true" duration-ms="6471" started-at="2019-05-28T12:40:11Z" finished-at="2019-05-28T12:40:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

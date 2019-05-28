@@ -10,14 +10,14 @@ public class samsungElements {
 	WebDriver driver;
 	
 	
-	@FindBy (xpath="//span[@class='a-price-whole'][contains(.,'11,999')]") WebElement price1;
+	@FindBy (xpath="//span[@class='a-price-whole'][contains(.,'10,899.')]") WebElement price1;
 	@FindBy (xpath="(//span[@class='a-price-fraction'][contains(.,'00')])[1]") WebElement fraction;
 	@FindBy (xpath="//img[@data-image-index='0']") WebElement SelectFirst;
 	@FindBy (id="priceblock_ourprice") WebElement productPrice;
 	@FindBy (id="add-to-cart-button") WebElement addCar;
 	@FindBy (id="twotabsearchtextbox") WebElement searchbox;
 	@FindBy (xpath="//input[contains(@value,'Ir')]") WebElement ir;
-	@FindBy (xpath="//span[contains(.,'$11,999.00')]") WebElement priceCar;
+	@FindBy (xpath="//span[contains(.,'$10,899.00')]") WebElement priceCar;
 	@FindBy (xpath="//strong[contains(.,'1')]") WebElement oneproduct;
 	
 	 public samsungElements(WebDriver driver) {

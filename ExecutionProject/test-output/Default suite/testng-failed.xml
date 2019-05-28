@@ -8,6 +8,7 @@
           <include name="close"/>
           <include name="ValidatePrice2SamsungInCar"/>
           <include name="setUrl"/>
+          <include name="ValidatePrice1Samsung"/>
         </methods>
       </class> <!-- ExecutionTestNG -->
     </classes>
